@@ -1,0 +1,33 @@
+.section1{
+    background-image: url("https://preview.colorlib.com/theme/pulse/img/slider/slider-2.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section1item{
+    width: 80%;
+    h1{
+        font-size: 100px;
+        color: #ffffff;
+        margin: 0;
+        text-align: end;
+    }
+    p{
+        color: #ffffff;
+        text-align: end;
+        display: flex;
+        justify-content: end;
+        font-size: 20px;
+        margin: 0;
+    }
+    div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}

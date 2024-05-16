@@ -1,0 +1,26 @@
+.sectionthree{
+    background-image: url("https://preview.colorlib.com/theme/pulse/img/review-bg.jpg");
+    height: 60vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerthree{
+    width: 80%;
+}
+.containerthreeitems{
+    width: 80%;
+    display: flex;
+    .itemsitem1{
+        border: 1px solid gold;
+        width: 40%;
+        
+        
+    }
+    p{
+        color: #ffffff;
+        font-size: 50px;
+    }
+}
